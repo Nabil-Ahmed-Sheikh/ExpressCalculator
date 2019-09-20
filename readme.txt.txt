@@ -1,0 +1,2 @@
+-use $node calculator.js or $nodemon calculator.js to start the server
+-then go to localhost:3000
